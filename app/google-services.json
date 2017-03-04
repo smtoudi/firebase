@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824117281705",
+    "firebase_url": "https://fir-cwiczenia.firebaseio.com",
+    "project_id": "fir-cwiczenia",
+    "storage_bucket": "fir-cwiczenia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824117281705:android:69eeae98a11ba9b6",
+        "android_client_info": {
+          "package_name": "sda.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824117281705-iluki0vv66opm4732jo04s18shjnaa17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sda.firebase",
+            "certificate_hash": "c65f51283e057f59ff76175ba46cd39a68744d9c"
+          }
+        },
+        {
+          "client_id": "824117281705-rip022jqdd5v7ukpruobsr5pso6ltfjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxOcJa_8OpL5mV-NfPCpL0AH-0kVvJWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824117281705-rip022jqdd5v7ukpruobsr5pso6ltfjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
